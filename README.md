@@ -1,52 +1,46 @@
-# 👋 Hello, I'm Cleiber
+<h1 align="center">Hi 👋, I'm Cleiber</h1>
+<h3 align="center">Backend Developer in progress 🚀</h3>
 
-## 🚀 Backend Developer in progress
-
-Logic • Algorithms • Systems
-
-I’m focused on building strong foundations in software development, especially programming logic, algorithms, and backend systems.
-
----
-
-## 🧠 About me
-
-- 📚 Studying programming fundamentals and software architecture  
-- 💻 Focused on backend development  
-- 🚀 Building projects to improve every day  
-- 🎯 Goal: become a professional software developer and work remotely  
+<p align="center">
+Logic • Algorithms • Systems • Problem Solving
+</p>
 
 ---
 
-## 🛠️ Tech Stack (in progress)
+## 🧠 About Me
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Cleiber's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcleiber&show_icons=true&theme=tokyonight)
+- 📚 Focused on programming logic, algorithms and software fundamentals  
+- 💻 Backend development enthusiast  
+- 🧩 Interested in how systems work under the hood  
+- 🎯 Goal: become a professional software engineer and work remotely  
 
 ---
 
-## 🔥 Most Used Languages
+## 🛠️ Tech Stack (Learning)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcleiber&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
 ## 📂 Projects
 
-> Coming soon... (building strong foundations first)
+<p>
+🚧 Building strong fundamentals before publishing projects  
+</p>
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/devcleiber  
-- Email: cleiberbomfim021@gmail.com  
+- 📧 Email: cleiberbomfim021@gmail.com  
+- 🔗 GitHub: https://github.com/devcleiber  
 
 ---
 
-💡 "Code. Think. Build. Repeat."
+<p align="center">
+💡 Code. Think. Build. Repeat.
+</p>
